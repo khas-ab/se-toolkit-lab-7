@@ -14,7 +14,7 @@ Default values: [`backend/.env.tests.e2e.example`](../backend/.env.tests.e2e.exa
 
 ## `LMS_API_BASE_URL`
 
-The base [URL](./computer-networks.md#url) of the deployed API.
+See [LMS API base URL](./lms-api.md#lms-api-base-url).
 
 Example: `http://192.0.2.1:42002`
 
@@ -22,4 +22,4 @@ Example: `http://192.0.2.1:42002`
 
 The [LMS API key](./lms-api.md#lms-api-key).
 
-It value must match the value of [`LMS_API_KEY`](./dotenv-docker-secret.md#lms_api_key) in [`.env.docker.secret`](./dotenv-docker-secret.md#what-is-envdockersecret) on the VM.
+It value must match the value of [`LMS_API_KEY`](./dotenv-docker-secret.md#lms_api_key) in [`.env.docker.secret`](./dotenv-docker-secret.md#what-is-envdockersecret) used for deployment.
