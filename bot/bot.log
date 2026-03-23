@@ -1,0 +1,18 @@
+nohup: ignoring input
+INFO:__main__:Bot starting...
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @toolkitlab7_bot id=8607540129 - 'toolkit'
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8607540129)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.382709 seconds and try again... (tryings = 1, bot id = 8607540129)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 1.808659 seconds and try again... (tryings = 2, bot id = 8607540129)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 2.415629 seconds and try again... (tryings = 3, bot id = 8607540129)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+WARNING:aiogram.dispatcher:Sleep for 3.210949 seconds and try again... (tryings = 4, bot id = 8607540129)
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped for bot @toolkitlab7_bot id=8607540129 - 'toolkit'
+INFO:aiogram.dispatcher:Polling stopped
